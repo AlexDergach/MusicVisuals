@@ -242,6 +242,6 @@ float size = 100;
 
 Our YouTube Video:
 
-[![YouTube]](https://www.youtube.com/watch?v=RUKFmpijMn4)
+[YouTube Link](https://www.youtube.com/watch?v=RUKFmpijMn4)
 
 
